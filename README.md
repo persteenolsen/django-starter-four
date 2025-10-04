@@ -1,6 +1,6 @@
 
 
-# Python + Django + Vercel
+# Python + Django + MariaDB - MySQL + Models + Vercel
 
 This example shows how to use Django 5 on Vercel with Serverless Functions using the [Python Runtime](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/python).
 
