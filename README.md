@@ -40,7 +40,7 @@ https://django-starter-four.vercel.app/
 
 - (.venv) python manage.py runserver
 
-When starting the Django Website from the Vertual Enviroment (.venv) you will notice that Django 4.1.3 will start. Otherwise you can use the Global Django if you have one installed by running:
+When starting the Django Website from the Vertual Enviroment (.venv) you will notice that Django 5.1.11 will start. Otherwise you can use the Global Django if you have one installed by running:
 
 - python manage.py runserver
 
