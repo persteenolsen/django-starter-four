@@ -136,6 +136,16 @@ Your Django application is now available at `http://127.0.0.1:8000/`.
 
 The Admin Backend is using a MariaDB Database for both Dev + Prod, but is able to use a SQLite for Dev
 
+Note: For using the remote MariaDB make sure to select: 
+
+"Allow remote connections from any host" or 
+
+"Allow remote connections from"
+
+The above settings are found in the Heliohost Dashboard - Databases - User Management
+
+This is required for makemigrations locally!
+
 To connect to the MariaDB install the Python package "pymysql" and the packages from the requirements.txt
 
 ```bash
